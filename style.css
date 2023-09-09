@@ -8,9 +8,8 @@ body {
         background: url("../Food_bg.jpg") top right no-repeat;
         background-size: cover;
         position: relative;
-    color: #04c6f7;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-
+        color: #7be5ff;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .container {
@@ -111,7 +110,7 @@ input[type='text'] {
 .single-meal-info {
     margin: 20px;
     padding: 10px;
-    border: 2px #e09850 dashed;
+    border: 2px #ffffff dashed;
     border-radius: 5px;
 }
 
